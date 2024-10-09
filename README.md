@@ -22,15 +22,19 @@ The model has been deployed using Streamlit, enabling an easy-to-use interface w
 1) Clone the repository:
 
   git clone https://github.com/your-username/Predictive-Analysis-using-Machine-Learning-to-determine-your-future-salary.git
-3) Navigate into the project directory:
+  
+2) Navigate into the project directory:
    
   cd Predictive-Analysis-using-Machine-Learning-to-determine-your-future-salary
-4) Install the required libraries:
+  
+3) Install the required libraries:
 
   pip install pandas numpy matplotlib scikit-learn streamlit
-5) Run the Streamlit app:
+  
+4) Run the Streamlit app:
 
   streamlit run app.py
+  
 # Usage
 Once the app is running, enter your:
 * Country
